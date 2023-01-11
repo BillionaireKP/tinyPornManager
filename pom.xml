@@ -209,7 +209,7 @@
 		<dependency>
 			<groupId>fr.turri</groupId>
 			<artifactId>aXMLRPC</artifactId>
-			<version>1.8.3</version>
+			<version>1.12.1</version>
 		</dependency>
 		<dependency>
 			<groupId>com.uwetrottmann.tmdb2</groupId>
